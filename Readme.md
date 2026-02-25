@@ -11,4 +11,4 @@ git push -f origin main
 
 git add .
 git commit -m 'init'
-git push -u origin main
+git push -f origin main
